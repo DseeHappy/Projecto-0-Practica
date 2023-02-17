@@ -9,6 +9,9 @@
 
 ## 🚀 Quick start
 
+CODIGO!!
+https://prod.liveshare.vsengsaas.visualstudio.com/join?235096A7E675F7515BCAFCA3F4288BBAE24B
+
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
